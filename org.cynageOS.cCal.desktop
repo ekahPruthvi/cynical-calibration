@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=cCal
+Comment=The Settings App for cynageOS
+Exec=./.config/hypr/cCal/cCal.sh
+Terminal=False
+Type=Application
+Icon=gnome-settings
+Categories=GNOME;System;
+StartupNotify=False
